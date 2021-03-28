@@ -1,0 +1,23 @@
+.menu {
+    background:white;
+    position: fixed;
+    top: 0px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    color: fuchsia;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+    padding-top: 200px;
+}
+
